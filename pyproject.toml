@@ -1,0 +1,20 @@
+[project]
+name = "edteam-rag"
+version = "0.1.0"
+description = "Rag"
+authors = [{ name = "Jason", email = "jasonssdev@gmail.com" }]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "jupyterlab",
+    "notebook",
+    "ipykernel",
+    "ipywidgets",
+    "pathlib",
+    "sentence-transformers",
+    "openai",
+]
