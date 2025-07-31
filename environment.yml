@@ -21,4 +21,6 @@ dependencies:
   - pathlib
   - seaborn
   - openai
+  - python-dotenv
+  - requests
 prefix: /opt/anaconda3/envs/emb-py3.11

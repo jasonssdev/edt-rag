@@ -17,4 +17,8 @@ dependencies = [
     "pathlib",
     "sentence-transformers",
     "openai",
+    "python-dotenv",
+    "requests",
+    "nltk",
+    "spacy",
 ]
